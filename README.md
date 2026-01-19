@@ -4,8 +4,6 @@ My personal challenge to master algorithms and prepare myself for the IT ecosyst
 
 ## 📊 Current Progress
 
-## 📊 Current Progress
-
 ### Block 1: Fundamentals (Basic)
 | Block | Challenge | Status |
 | :--- | :--- | :---: |
