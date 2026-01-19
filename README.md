@@ -1,13 +1,13 @@
 # 100 Days of Python Interview 🚀
 
-Mi reto personal para dominar la algoritmia y prepararme para el ecosistema IT. Este repositorio contiene la resolución de 100 problemas técnicos, aplicando principios de **Clean Code** y optimización de **Estructuras de Datos**.
+My personal challenge to master algorithms and prepare myself for the IT ecosystem. This repository contains the solutions to 100 technical problems, applying principles of **Clean Code** and **Data Structures** optimization..
 
-## 📊 Progreso Actual
+## 📊 Current Progress
 
-| Bloque | Desafío | Estado |
+| Block | Challenge | State|
 | :--- | :--- | :--- |
-| 1 | 01 - Hola Mundo | ✅ |
-| 1 | 02 - Suma Simple | ✅ |
-| 1 | 03 - Par o Impar | ✅ |
-| 1 | 04 - Área de Círculo | ✅ |
-| 1 | 05 - Celsius a Fahrenheit | ✅ |
+| 1 | 01 - Hello World | ✅ |
+| 1 | 02 - Simple Addition | ✅ |
+| 1 | 03 - Even or Odd | ✅ |
+| 1 | 04 - Circle Area | ✅ |
+| 1 | 05 - Celsius to Fahrenheit | ✅ |
