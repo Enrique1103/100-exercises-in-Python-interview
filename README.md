@@ -1,4 +1,4 @@
-# 100 Days of Python Interview 🚀
+# 100 exercises of Python Interview 🚀
 
 My personal challenge to master algorithms and prepare myself for the IT ecosystem. This repository contains the solutions to 100 technical problems, applying principles of **Clean Code** and **Data Structures** optimization..
 
