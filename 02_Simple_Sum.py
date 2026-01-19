@@ -1,3 +1,4 @@
+# Clean Code:
 # Nombres Significativos (Meaningful Names)
 # Tipado de Datos (Type Hinting)
 # Responsabilidad Única (Single Responsibility)
