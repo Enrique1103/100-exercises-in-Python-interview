@@ -1,14 +1,12 @@
-# Clean Code:
-# Nombres Significativos (Meaningful Names)
-# Tipado de Datos (Type Hinting)
-# Responsabilidad Única (Single Responsibility)
+# CLEAN CODE: Nombre de función como verbo (indica acción clara).
+# SOLID (S): Principio de Responsabilidad Única. La función solo procesa la lógica matemática.
 
-def sumar(numero_a, numero_b):
-    return numero_a + numero_b
+def add(number_a, number_b):
+    return number_a + number_b
 
-n1 = int(input('Introduzca el 1er número: '))
-n2 = int(input('Introduzca el 2do número: '))
+n1 = int(input('Enter the first number: '))
+n2 = int(input('Enter the second number: '))
 
-resultado = sumar(n1, n2)
+result = add(n1, n2)
 
-print(f'La suma es: {resultado}')
+print(f'The sum is: {result}')

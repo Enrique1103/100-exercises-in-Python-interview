@@ -1,10 +1,7 @@
-#Clean Code
-# Nombres Significativos (Meaningful Names)
-# Responsabilidad Única (Single Responsibility)
-# Facilidad de Pruebas (Testability)
+# CLEAN CODE: Nombre de función como verbo (indica una acción clara).
+# SOLID (S): Principio de Responsabilidad Única. La función solo genera el mensaje
 
-def saludar():
-    return "Hola Mundo"
+def greet():
+    return "Hello World"
 
-resultado = saludar()
-print(resultado)
+print(greet())
