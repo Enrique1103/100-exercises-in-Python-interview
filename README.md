@@ -12,11 +12,11 @@ My personal challenge to master algorithms and prepare myself for the IT ecosyst
 | 1 | [03 - Even or Odd](./03_even_or_odd.py) | ✅ |
 | 1 | [04 - Area of a Circle](./04_area_circle.py) | ✅ |
 | 1 | [05 - Celsius to Fahrenheit](./05_celsius_fahrenheit.py) | ✅ |
-| 1 | 06 - Character Counter | ⏳ |
-| 1 | 07 - Shopping List | ⏳ |
-| 1 | 08 - String Reversal | ⏳ |
-| 1 | 09 - Multiplication Table | ⏳ |
-| 1 | 10 - Factorial (Recursive/Loop) | ⏳ |
+| 1 | 06 - [Character Counter](./06_character_counter.py)| ⏳ |
+| 1 | 07 - [Shopping List](./07_shopping_list.py)| ⏳ |
+| 1 | 08 - [String Reversal](./07_string_reversal.py) | ⏳ |
+| 1 | 09 - [Multiplication Table](./07_multiplication_table.py) | ⏳ |
+| 1 | 10 - [Factorial (Recursive/Loop)](./07_factorial.py) | ⏳ |
 | 1 | 11 - Max of Three | ⏳ |
 | 1 | 12 - Count Vowels | ⏳ |
 | 1 | 13 - List of Squares | ⏳ |
